@@ -13,4 +13,5 @@ Source is https://github.com/willhasgithub/public_examples
     - Uses Flask to create a very simple API endpoint to perform a set action and log the inputs and outputs in a JSON file.
 - `/edabit_coding_challenges/__init__.py`
     - These challeges are found on Edabit.com. I sometimes do these for fun and might be useful to see how I work though problems using python.
-
+- `/directional_graph/make_parents_dictionary.py`
+    - Uses NetworkX to cluster loosely organized data, label those clusters, and deploy a higher level object for reporting in the warehouse.
