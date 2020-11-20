@@ -1,0 +1,5 @@
+id	ActionID	LastName	FirstName	StateCode	PreferredEmail	OtherEmail	PersonalEmail	LeadershipRole
+100121731	5100120	Steele 	Remington	TN	a1email1@example.com	a1email2@example.com	a1email3@example.com	Chapter Leader
+100197802	5163414	Bond	James 	MN	a2email1@example.com	a2email2@example.com 	a3email3@example.com	Group Leader
+100206566	2863389	Henderson	Lee	WA	a3email1@example.com	a3email2@example.com	a3email3@example.com	State Data Lead
+100127878	623655	Watts	Shannon	MI	a4email1@example.com	a4email2@example.com	a3email3@example.com	Chapter Leader
