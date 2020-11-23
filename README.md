@@ -1,4 +1,4 @@
-# Repository willhasgithub_examples
+# Repository willhasgithub_code_examples
 A public repository used to show others examples of my code.
 
 Primary languages are Python 3.7 and PostgreSQL. 
